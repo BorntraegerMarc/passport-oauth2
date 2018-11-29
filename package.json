@@ -1,6 +1,6 @@
 {
     "name": "borntraegermarc-passport-oauth2",
-    "version": "1.4.3",
+    "version": "1.4.4",
     "description": "OAuth 2.0 authentication strategy for Passport.",
     "keywords": [
         "passport",
@@ -40,6 +40,7 @@
         "utils-merge": "1.x.x"
     },
     "devDependencies": {
+        "@types/oauth": "0.9.1",
         "make-node": "0.3.x",
         "mocha": "2.x.x",
         "chai": "2.x.x",

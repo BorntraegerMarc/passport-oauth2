@@ -3,6 +3,7 @@
 // Definitions by: Pasi Eronen <https://github.com/pasieronen>
 //                 Wang Zishi <https://github.com/WangZishi>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
+/// <reference types="oauth" />
 // TypeScript Version: 2.3
 
 import { Request } from 'express';
