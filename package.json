@@ -1,6 +1,6 @@
 {
     "name": "borntraegermarc-passport-oauth2",
-    "version": "1.4.4",
+    "version": "1.4.5",
     "description": "OAuth 2.0 authentication strategy for Passport.",
     "keywords": [
         "passport",
