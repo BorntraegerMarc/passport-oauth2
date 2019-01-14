@@ -1,6 +1,6 @@
 {
     "name": "borntraegermarc-passport-oauth2",
-    "version": "1.4.6",
+    "version": "1.4.7",
     "description": "OAuth 2.0 authentication strategy for Passport.",
     "keywords": [
         "passport",
@@ -35,7 +35,7 @@
     "types": "./index.d.ts",
     "dependencies": {
         "@types/oauth": "0.9.1",
-        "borntraegermarc-oauth": "0.9.16",
+        "borntraegermarc-oauth": "0.9.17",
         "passport-strategy": "1.x.x",
         "uid2": "0.0.x",
         "utils-merge": "1.x.x"
